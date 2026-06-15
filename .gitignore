@@ -9,3 +9,7 @@
 .cxx
 local.properties
 /app/build/
+
+# transient auth/login logs (never commit)
+.ghauth.log
+*.log
